@@ -1,0 +1,23 @@
+[
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "C:\\\\Users\\\\rhoda\\\\projects\\\\courses\\\\nuxt-bnb\\\\pages\\\\search.vue",
+    "chunkName": "pages/search",
+    "_name": "_aa480656"
+  },
+  {
+    "name": "home-id",
+    "path": "/home/:id?",
+    "component": "C:\\\\Users\\\\rhoda\\\\projects\\\\courses\\\\nuxt-bnb\\\\pages\\\\home\\\\_id.vue",
+    "chunkName": "pages/home/_id",
+    "_name": "_5a22d5c4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\rhoda\\\\projects\\\\courses\\\\nuxt-bnb\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4a4b4335"
+  }
+]
