@@ -19,4 +19,6 @@ export default {
   },
   // xxx.client tells nuxt this is mode: 'client'
   plugins: ["~/plugins/maps.client", "~/plugins/dataApi"],
+  modules: [],
+  buildModules:['@nuxtjs/tailwindcss']
 };
